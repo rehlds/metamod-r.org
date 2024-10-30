@@ -1,6 +1,6 @@
 # metamod-r.org
 
-Site's repo for [Metamod-r](https://github.com/theAsmodai/metamod-r) project.
+Site's repo for [Metamod-r](https://github.com/rehlds/metamod-r) project.
  
 ### Info
 

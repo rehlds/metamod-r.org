@@ -4,6 +4,17 @@ Site's repo for [Metamod-r](https://github.com/rehlds/metamod-r) project.
 
 ---
 
+## [`0.0.0.9`](https://github.com/rehlds/metamod-r.org/releases/tag/0.0.0.9) - 2024-11-01
+
+### Changed
+- updated dependencies:
+  - bootstrap `4.0` to `4.6.2`
+  - jquery `3.5.1` to `3.7.1`
+  - animate.css `3.5.1` to `3.7.1`
+  - fontawesome `5.8.0` to `6.6.0`
+
+**Full Changelog**: [0.0.0.8...0.0.0.9](https://github.com/rehlds/metamod-r.org/compare/0.0.0.8...0.0.0.9)
+
 ## [`0.0.0.8`](https://github.com/rehlds/metamod-r.org/releases/tag/0.0.0.8) - 2024-10-30
 
 ### Changed

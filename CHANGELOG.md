@@ -3,7 +3,14 @@
 Site's repo for [Metamod-r](https://github.com/rehlds/metamod-r) project.
 
 ---
+## [`0.0.0.10`](https://github.com/rehlds/metamod-r.org/releases/tag/0.0.0.10) - 2025
 
+### Changed
+- migrated to `GitHub Pages`
+- updated dependencies:
+  - bootstrap `4.6.2` to `5.3.7`
+  - fontawesome `6.6.0` to `7.0.0`
+  - 
 ## [`0.0.0.9`](https://github.com/rehlds/metamod-r.org/releases/tag/0.0.0.9) - 2024-11-01
 
 ### Changed
